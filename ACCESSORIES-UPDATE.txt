@@ -1,0 +1,22 @@
+ACCESSORIES V6 - GITHUB UPDATE
+================================
+
+Replace your existing:
+  accessories.html
+
+Then upload this folder (including all files) to:
+  images/accessories/
+
+The page references the photos using:
+  images/accessories/<filename>.webp
+
+Changes in this build:
+- Removed Cleaning Brush Set, Cleaning Swab Pack and Microfibre Cleaning Cloth.
+- Removed the Cleaning category/tab.
+- Added the supplied photos to the matching accessory items.
+- Added fuller descriptions for every remaining accessory.
+- Kept the "Must be ordered in" flare and Order In filter.
+- Reduced special-order status to a clearer selection of items.
+- Made descriptions visible on mobile cards.
+- Standardised accessory photos into 1200x1200 high-quality WebP files.
+- Build marker: accessories-catalogue-v6-photo-refresh-2026-08-09
